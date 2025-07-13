@@ -1,5 +1,7 @@
 # Prototipo de Realidad Aumentada para Combatir el Analfabetismo Funcional
 
+<img width="449" height="431" alt="image" src="https://github.com/user-attachments/assets/8ca1951e-0404-4320-98d1-7b8d779cfecc" />
+
 Este repositorio contiene el componente práctico de la tesis de grado de **Jesús David Martino Galindo** y **Luis Herney Lopez Giraldo**, enfocada en el desarrollo de un sistema interactivo basado en **realidad aumentada (RA)** para abordar el problema del **analfabetismo funcional**.
 
 ## 🧠 Objetivo del Proyecto
